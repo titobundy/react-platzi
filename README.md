@@ -32,7 +32,7 @@ npm start
 
 https://github.com/LeonidasEsteban/webpack-curso/tree/master/invie
 
-Parainstalar dependencias del archivo package.json
+Para instalar dependencias del archivo package.json
 
 ```
 npm install
