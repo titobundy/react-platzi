@@ -6,19 +6,26 @@ Prerequesitos: NodeJs
 
 https://github.com/facebookincubator/create-react-app
 
+
+**Forma Anterior**
+
+ 
+```
 npm install -g create-react-app 
-
-(*) Antigua
-
 create-react-app my-app
 cd my-app/
 npm start
+ 
+```
 
-(*) Nueva
-
+**Forma Nueva**
+ 
+```
 npx create-react-app my-app
 cd my-app
 npm start
+ 
+```
 
 
 2. Webpack
