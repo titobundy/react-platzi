@@ -3,11 +3,19 @@
 Prerequesitos: NodeJs
 
 1. Forma 1 (proyectos rapidos)
+
 https://github.com/facebookincubator/create-react-app
+
 npm install -g create-react-app 
 
+(*) Antigua
 create-react-app my-app
 cd my-app/
+npm start
+
+(*) Nueva
+npx create-react-app my-app
+cd my-app
 npm start
 
 
