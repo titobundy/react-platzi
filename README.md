@@ -31,3 +31,7 @@ npm start
 2. Webpack
 
 https://github.com/LeonidasEsteban/webpack-curso/tree/master/invie
+
+```
+npm run build:dev
+```
